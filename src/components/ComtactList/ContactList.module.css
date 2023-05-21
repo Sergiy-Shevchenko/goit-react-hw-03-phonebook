@@ -1,0 +1,30 @@
+.form {
+  width: 100%;
+  flex-direction: column;
+  padding: 10px;
+  border: 1px solid #0a0a0a;
+}
+
+.button {
+  display: block;
+}
+
+ul {
+  padding-inline-start: 5px;
+}
+
+.contactItem {
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.contacName {
+  margin: 0px;
+}
+
+svg {
+  margin-right: 7px;
+}
